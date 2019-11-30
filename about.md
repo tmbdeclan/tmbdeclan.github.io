@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Vermont Artisanal Internet provides small-batch locally-sourced intarweb to the Upper Valley community.
+Vermont Artisanal Internet provides small-batch locally-sourced internet to the Upper Valley community.
